@@ -1,7 +1,9 @@
-<!-- ![Screenshot of website](/Develop/assets/images/Screenshot%202024-04-23%20at%203.20.31 PM.png) -->
+![Screenshot of website](/Develop/assets/images/Screenshot%202024-05-02%20at%203.57.51 PM.png)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)]() [![NodeJs Badge](https://img.shields.io/badge/NodeJs-339933?logo=node.js&logoColor=FFF&style=for-the-badge)]()  [![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=FFF&style=for-the-badge)]()
 
 # [SVG Logo Maker](https://github.com/domdecap/SVG-logo-maker)
+
+## [Video Walkthrough](https://drive.google.com/file/d/1f-7M5cF3SXc3ctlxuLatFSGeWBg8lOT2/view?usp=drive_link)
 
 ## Description
 
@@ -18,7 +20,11 @@ Prerequisites: [NodeJs](https://nodejs.org/en) ```v20.12.2```
 
 ## Usage
 
-After following installation instructions, run ```node index.js``` in the integrated terminal to launch README Generator questions. After finishing answering, you'll new README file will export to the 'utils' folder.
+After following installation instructions, run ```node index.js``` in the integrated terminal to launch SVG logo maker questions. After finishing answering, you're logo svcg file will export to the 'examples' folder.
+
+## Contributions
+
+I utilized Gemini AI to help with writing the test file.
 
 ## 📜 License
 
